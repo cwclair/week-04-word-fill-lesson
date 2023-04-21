@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+h1 {
+    font-size: 400%;
+    background-color: black;
+    color: whitesmoke;
+}
+#word {
+    font-size: 300%;
+}
+
+#message {
+    font-size: 250%;
+    padding: 50px;
+}
+button {
+    font-size: 150%;
+}
+
+#scoreboard {
+    font-size: 200%;
+    padding: 50px;
+}
