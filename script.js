@@ -34,6 +34,7 @@ function displayWord() {
         displayScore();
         startButton.style.display = "inline";
         clearInterval(timerId);
+        canGuess = false;
     }
 }
 // displayWord();
